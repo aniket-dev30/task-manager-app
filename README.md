@@ -1,4 +1,4 @@
-# 🚀 Full Stack Task Manager App (DekNek Assessment)
+# 🚀 Full Stack Task Manager App 
 
 ## 📌 Overview
 
